@@ -1,0 +1,9 @@
+3.
+	chmod 645 fichero
+	chmod u+rw-x,g+r-wx,o+rx-w
+
+4.
+	mkdir carpeta
+	chmod 666
+	al hacer esto no podemos acceder
+
